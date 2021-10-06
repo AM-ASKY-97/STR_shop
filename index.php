@@ -47,7 +47,7 @@
   
           <nav class="navbar navbar-expand-lg navbar-light ">
             
-            <a class="navbar-brand" href="#"><img src="web_logo-2.png" alt=""></a>
+            <a class="navbar-brand" href="#"><img src="images/web_logo-2.png" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -87,25 +87,25 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="Mobile Banner - 1.jpg" alt="First slide" class="img-fluid">
+            <img class="d-block w-100" src="Images/Mobile Banner - 1.jpg" alt="First slide" class="img-fluid">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="Mobile banner - 2.jpg" alt="Second slide" class="img-fluid">
+            <img class="d-block w-100" src="Images/Mobile banner - 2.jpg" alt="Second slide" class="img-fluid">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="Kids - banner 1.jpg" alt="Third slide" class="img-fluid">
-          </div>
-
-          <div class="carousel-item">
-            <img class="d-block w-100" src="kids - banner 2.jpg" alt="firth slide" class="img-fluid">
+            <img class="d-block w-100" src="Images/Kids - banner 1.jpg" alt="Third slide" class="img-fluid">
           </div>
 
           <div class="carousel-item">
-            <img class="d-block w-100" src="cosmetics banner - 1.jpg" alt="Third slide" class="img-fluid">
+            <img class="d-block w-100" src="Images/kids - banner 2.jpg" alt="firth slide" class="img-fluid">
           </div>
 
           <div class="carousel-item">
-            <img class="d-block w-100" src="cosmetics banner - 2.jpg" alt="firth slide" class="img-fluid">
+            <img class="d-block w-100" src="Images/cosmetics banner - 1.jpg" alt="Third slide" class="img-fluid">
+          </div>
+
+          <div class="carousel-item">
+            <img class="d-block w-100" src="Images/cosmetics banner - 2.jpg" alt="firth slide" class="img-fluid">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -128,11 +128,11 @@
       <div class="row">
 
         <div class="col-12 col-md-6 py-1 ">
-          <img src="Kids - banner 1.jpg" alt="" class="img-fluid html">
+          <img src="images/Kids - banner 1.jpg" alt="" class="img-fluid html">
         </div>
 
         <div class="col-12 col-md-6 py-1">
-          <img src="kids - banner 2.jpg" alt="" class="img-fluid html"> 
+          <img src="images/kids - banner 2.jpg" alt="" class="img-fluid html"> 
         </div>
       </div>
 
@@ -147,8 +147,8 @@
     <div class="row pb-2">
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card ">
-          <img src="Recharge bike -1.jpg" alt="" class="img-fluid html">
+        <div class="card hei1">
+          <img src="images/KIDS/Recharge bike -1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr class="mt-5"> 
@@ -162,8 +162,8 @@
       </div>
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card">
-          <img src="Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
+        <div class="card hei1">
+          <img src="images/KIDS/Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
@@ -177,8 +177,8 @@
       </div>
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card">
-          <img src="tolo car - 1.jpg" alt="" class="img-fluid html">
+        <div class="card hei1">
+          <img src="images/KIDS/tolo car - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
@@ -192,8 +192,8 @@
       </div>
 
       <div class="col col col-md-3 mb-2 col-6">
-        <div class="card">
-          <img src="Range rover - 1.jpg" alt="" class="img-fluid html">
+        <div class="card hei1">
+          <img src="images/KIDS/Range rover - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
@@ -216,11 +216,11 @@
 
        <div class="row pb-2">
         <div class="col-md-6 mb-2">
-          <img src="Mobile Banner - 1.jpg" alt="" Class="img-fluid">
+          <img src="images/Mobile Banner - 1.jpg" alt="" Class="img-fluid">
         </div>
 
         <div class="col">
-          <img src="Mobile banner - 2.jpg" alt=""  Class="img-fluid">
+          <img src="images/Mobile banner - 2.jpg" alt=""  Class="img-fluid">
         </div>
       </div>
 
@@ -234,8 +234,8 @@
       <div class="row pb-2">
         
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
-            <img src="Baseus.jpg" alt="" class="img-fluid rounded">
+          <div class="card hei1">
+            <img src="images/Mobile/Baseus.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -249,8 +249,8 @@
         </div>
 
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
-            <img src="Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
+          <div class="card hei1">
+            <img src="images/Mobile/Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -265,8 +265,8 @@
         </div>
 
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
-            <img src="1587104770344882.jpg" alt="" class="img-fluid rounded">
+          <div class="card hei1">
+            <img src="images/Mobile/1587104770344882.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -281,8 +281,8 @@
         </div>
 
         <div class="col col-md-3 mb-2 col-6">
-          <div class="card">
-            <img src="Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
+          <div class="card hei1">
+            <img src="images/Mobile/Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -320,8 +320,8 @@
         </div>
         <div class="row">
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
-              <img src="Aichun-Beauty-Beard-Oil-a.jpg" alt="" class="img-fluid">
+            <div class="card hei1">
+              <img src="images/Cosmatcs/Aichun-Beauty-Beard-Oil-a.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -335,8 +335,8 @@
           </div>
     
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
-              <img src="Aichun-Beauty-Face-and-Body-Whitening-Cream.jpg" alt="" class="img-fluid">
+            <div class="card hei1">
+              <img src="images/Cosmatcs/Aichun-Beauty-Face-and-Body-Whitening-Cream.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -350,8 +350,8 @@
           </div>
     
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
-              <img src="00027032.jpg" alt="" class="img-fluid">
+            <div class="card hei1">
+              <img src="images/Cosmatcs/00027032.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -366,8 +366,8 @@
     
           <div class="col-md-3 col-6 mb-2">
             
-            <div class="card">
-              <img src="argan-oil-cond.jpg" alt="" class="img-fluid">
+            <div class="card hei1">
+              <img src="images/Cosmatcs/argan-oil-cond.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -394,7 +394,7 @@
           <div class="col-md-3">
             <h5>ABOUT US</h5>
           
-            <img src="web_logo-2.png" alt="" class="img-fluid">
+            <img src="images/web_logo-2.png" alt="" class="img-fluid">
             
             <p class="pt-2">Office: Sammanthurai,<br>
               Sri Lanka. <br>
