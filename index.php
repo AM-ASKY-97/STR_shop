@@ -87,25 +87,25 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="Images/Mobile Banner - 1.jpg" alt="First slide" class="img-fluid">
+            <img class="d-block w-100" src="Mobile Banner - 1.jpg" alt="First slide" class="img-fluid">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="Images/Mobile banner - 2.jpg" alt="Second slide" class="img-fluid">
+            <img class="d-block w-100" src="Mobile banner - 2.jpg" alt="Second slide" class="img-fluid">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="Images/Kids - banner 1.jpg" alt="Third slide" class="img-fluid">
-          </div>
-
-          <div class="carousel-item">
-            <img class="d-block w-100" src="Images/kids - banner 2.jpg" alt="firth slide" class="img-fluid">
+            <img class="d-block w-100" src="Kids - banner 1.jpg" alt="Third slide" class="img-fluid">
           </div>
 
           <div class="carousel-item">
-            <img class="d-block w-100" src="Images/cosmetics banner - 1.jpg" alt="Third slide" class="img-fluid">
+            <img class="d-block w-100" src="kids - banner 2.jpg" alt="firth slide" class="img-fluid">
           </div>
 
           <div class="carousel-item">
-            <img class="d-block w-100" src="Images/cosmetics banner - 2.jpg" alt="firth slide" class="img-fluid">
+            <img class="d-block w-100" src="cosmetics banner - 1.jpg" alt="Third slide" class="img-fluid">
+          </div>
+
+          <div class="carousel-item">
+            <img class="d-block w-100" src="cosmetics banner - 2.jpg" alt="firth slide" class="img-fluid">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -148,7 +148,7 @@
 
       <div class="col col-md-3 mb-2 col-6">
         <div class="card ">
-          <img src="images/KIDS/Recharge bike -1.jpg" alt="" class="img-fluid html">
+          <img src="Recharge bike -1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr class="mt-5"> 
@@ -163,7 +163,7 @@
 
       <div class="col col-md-3 mb-2 col-6">
         <div class="card">
-          <img src="images/KIDS/Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
+          <img src="Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
