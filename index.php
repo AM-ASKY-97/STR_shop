@@ -147,7 +147,7 @@
     <div class="row pb-2">
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card ">
+        <div class="card hei1">
           <img src="Recharge bike -1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
@@ -162,7 +162,7 @@
       </div>
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card">
+        <div class="card hei1">
           <img src="Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
@@ -177,7 +177,7 @@
       </div>
 
       <div class="col col-md-3 mb-2 col-6">
-        <div class="card">
+        <div class="card hei1">
           <img src="tolo car - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
@@ -192,7 +192,7 @@
       </div>
 
       <div class="col col col-md-3 mb-2 col-6">
-        <div class="card">
+        <div class="card hei1">
           <img src="Range rover - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
@@ -234,7 +234,7 @@
       <div class="row pb-2">
         
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
+          <div class="card hei1">
             <img src="Baseus.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
@@ -249,7 +249,7 @@
         </div>
 
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
+          <div class="card hei1">
             <img src="Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
@@ -265,7 +265,7 @@
         </div>
 
         <div class="col-md-3 mb-2 col-6">
-          <div class="card">
+          <div class="card hei1">
             <img src="1587104770344882.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
@@ -281,7 +281,7 @@
         </div>
 
         <div class="col col-md-3 mb-2 col-6">
-          <div class="card">
+          <div class="card hei1">
             <img src="Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
@@ -305,11 +305,11 @@
       <div class="container pb-4">
         <div class="row pb-2">
           <div class="col-md-6 mb-2">
-            <img src="images/cosmetics banner - 2.jpg" alt="" Class="img-fluid">
+            <img src="cosmetics banner - 2.jpg" alt="" Class="img-fluid">
           </div>
   
           <div class="col-md-6 mb-2">
-            <img src="images/cosmetics banner - 1.jpg" alt=""  Class="img-fluid">
+            <img src="cosmetics banner - 1.jpg" alt=""  Class="img-fluid">
           </div>
         </div>
   
@@ -320,7 +320,7 @@
         </div>
         <div class="row">
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
+            <div class="card hei1">
               <img src="Aichun-Beauty-Beard-Oil-a.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
@@ -335,7 +335,7 @@
           </div>
     
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
+            <div class="card hei1">
               <img src="Aichun-Beauty-Face-and-Body-Whitening-Cream.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
@@ -350,7 +350,7 @@
           </div>
     
           <div class="col-md-3 mb-2 col-6">
-            <div class="card">
+            <div class="card hei1">
               <img src="00027032.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
@@ -366,7 +366,7 @@
     
           <div class="col-md-3 col-6 mb-2">
             
-            <div class="card">
+            <div class="card hei1">
               <img src="argan-oil-cond.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
