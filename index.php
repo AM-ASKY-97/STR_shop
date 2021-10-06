@@ -235,7 +235,7 @@
         
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Mobile/Baseus.jpg" alt="" class="img-fluid rounded">
+            <img src="images/Baseus.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -250,7 +250,7 @@
 
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Mobile/Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
+            <img src="images/Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -266,7 +266,7 @@
 
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Mobile/1587104770344882.jpg" alt="" class="img-fluid rounded">
+            <img src="images/1587104770344882.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -282,7 +282,7 @@
 
         <div class="col col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Mobile/Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
+            <img src="images/Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
