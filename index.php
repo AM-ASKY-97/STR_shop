@@ -128,11 +128,11 @@
       <div class="row">
 
         <div class="col-12 col-md-6 py-1 ">
-          <img src="images/Kids - banner 1.jpg" alt="" class="img-fluid html">
+          <img src="Kids - banner 1.jpg" alt="" class="img-fluid html">
         </div>
 
         <div class="col-12 col-md-6 py-1">
-          <img src="images/kids - banner 2.jpg" alt="" class="img-fluid html"> 
+          <img src="kids - banner 2.jpg" alt="" class="img-fluid html"> 
         </div>
       </div>
 
@@ -178,7 +178,7 @@
 
       <div class="col col-md-3 mb-2 col-6">
         <div class="card">
-          <img src="images/KIDS/tolo car - 1.jpg" alt="" class="img-fluid html">
+          <img src="tolo car - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
@@ -193,7 +193,7 @@
 
       <div class="col col col-md-3 mb-2 col-6">
         <div class="card">
-          <img src="images/KIDS/Range rover - 1.jpg" alt="" class="img-fluid html">
+          <img src="Range rover - 1.jpg" alt="" class="img-fluid html">
           
           <div class="card-body">
             <hr> 
@@ -216,11 +216,11 @@
 
        <div class="row pb-2">
         <div class="col-md-6 mb-2">
-          <img src="images/Mobile Banner - 1.jpg" alt="" Class="img-fluid">
+          <img src="Mobile Banner - 1.jpg" alt="" Class="img-fluid">
         </div>
 
         <div class="col">
-          <img src="images/Mobile banner - 2.jpg" alt=""  Class="img-fluid">
+          <img src="Mobile banner - 2.jpg" alt=""  Class="img-fluid">
         </div>
       </div>
 
@@ -235,7 +235,7 @@
         
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Baseus.jpg" alt="" class="img-fluid rounded">
+            <img src="Baseus.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -250,7 +250,7 @@
 
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
+            <img src="Baseus-Bullet-1.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -266,7 +266,7 @@
 
         <div class="col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/1587104770344882.jpg" alt="" class="img-fluid rounded">
+            <img src="1587104770344882.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -282,7 +282,7 @@
 
         <div class="col col-md-3 mb-2 col-6">
           <div class="card">
-            <img src="images/Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
+            <img src="Baseus Super Si 30W Quick Charger.jpg" alt="" class="img-fluid rounded">
   
             <div class="card-body">
               <hr>
@@ -394,7 +394,7 @@
           <div class="col-md-3">
             <h5>ABOUT US</h5>
           
-            <img src="images/web_logo-2.png" alt="" class="img-fluid">
+            <img src="web_logo-2.png" alt="" class="img-fluid">
             
             <p class="pt-2">Office: Sammanthurai,<br>
               Sri Lanka. <br>
