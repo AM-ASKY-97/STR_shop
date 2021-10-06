@@ -157,7 +157,7 @@
   
             <p><s>Rs 9000.00</s> <span class="text-danger">Rs 7,500.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
           </div>
         </div>
       </div>
@@ -172,7 +172,7 @@
   
             <p><s>Rs 15,000.00</s> <span class="text-danger">Rs 9,500.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
           </div>
         </div>
       </div>
@@ -187,7 +187,7 @@
   
             <p><s>Rs 3,600.00</s> <span class="text-danger">Rs 2,500.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
           </div>
         </div>
       </div>
@@ -202,7 +202,7 @@
   
             <p><s>Rs 54,500.00</s> <span class="text-danger">Rs 45,000.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
           </div>
         </div>
       </div>
@@ -244,7 +244,7 @@
   
               <p><s>Rs 6,000.00</s> <span class="text-danger">Rs 4,800.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
             </div>
           </div>
         </div>
@@ -259,7 +259,7 @@
   
               <p><s>Rs 5,990.00</s><span class="text-danger">Rs 3,950.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
             </div>
           </div>
   
@@ -275,7 +275,7 @@
   
               <p><s>Rs 4,300.00</s> <span class="text-danger">Rs 3,300.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
             </div>
           </div>
   
@@ -291,7 +291,7 @@
   
               <p><s>Rs 4,950.00</s> <span class="text-danger">Rs 3,900.00</span></p>
   
-            <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+            <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
             </div>
           </div>
   
@@ -330,7 +330,7 @@
     
                 <p><s>Rs 850.00</s> <span class="text-danger">Rs 650.00</span></p>
     
-              <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+              <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
               </div>
             </div>
           </div>
@@ -345,7 +345,7 @@
     
                 <p><s>Rs 590.00</s> <span class="text-danger">Rs 490.00</span></p>
     
-              <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+              <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
               </div>
             </div>
           </div>
@@ -360,7 +360,7 @@
     
                 <p><s>Rs 850.00</s> <span class="text-danger">Rs 730.00</span></p>
     
-              <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+              <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
               </div>
             </div>
           </div>
@@ -376,7 +376,7 @@
     
                 <p><s>Rs 1,150.00</s> <span class="text-danger">Rs 900.00</span></p>
     
-              <a href="#" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
+              <a href="payment.php" class="btn btn-primary w-100"><i class="fal fa-shopping-bag"></i><span class="ml-2">ADD TO CARD</span></a>
               </div>
             </div>
           </div>
