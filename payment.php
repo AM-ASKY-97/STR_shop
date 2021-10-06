@@ -72,9 +72,9 @@
 
     <div class="container">
 
-        <div class="row mx-auto">
+        <div class="row ">
           <div class="col-lg-6">
-          <div class="jumbotron  mt-5">
+          <div class="jumbotron mx-auto mt-5">
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
