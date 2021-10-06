@@ -34,7 +34,7 @@
 
           <div class="col-md-4 col-6 d-flex justify-content-end">
             <a href="#" class="text-white"><i class="fa fa-sign-in mr-3" aria-hidden="true"></i><span class="mr-3">Sign up</span></a>
-            <a href="#" class="text-white d-none d-md-block"><i class="fas fa-user"></i><span class="ml-1 mr-3">Login</span></a>
+            <a href="#" class="text-white d-none d-md-block"><i class="fas fa-user"></i><span class="ml-1">Login</span></a>
             <a href="#" class="text-white "><i class="far fa-shopping-cart"></i><span class="ml-1">Card</span></span></a>
           </div>
         </div>
@@ -73,8 +73,8 @@
     <div class="container">
 
         <div class="row ">
-          <div class="col-lg-6">
-          <div class="jumbotron mx-auto mt-5">
+          <div class="col-lg-6 d-block mx-auto">
+          <div class="jumbotron mt-5">
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
