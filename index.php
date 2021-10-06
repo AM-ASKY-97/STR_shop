@@ -34,8 +34,8 @@
 
           <div class="col-md-4 col-6 d-flex justify-content-end">
             <a href="#" class="text-white"><i class="fa fa-sign-in mr-1" aria-hidden="true"></i><span class="mr-3">Sign up</span></a>
-            <a href="#" class="text-white"><i class="fas fa-user"></i><span class="ml-1">Login</span></a>
-            <a href="#" class="text-white "><i class="far fa-shopping-cart"></i><span class="ml-1">Card</span></span></a>
+            <a href="#" class="text-white d-none d-md-block"><i class="fas fa-user"></i><span class="ml-1">Login</span></a>
+            <a href="#" class="text-white "><i class="far fa-shopping-cart"></i><span class="mr-3">Card</span></a>
           </div>
         </div>
       </div>

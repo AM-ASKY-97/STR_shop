@@ -47,7 +47,7 @@
   
           <nav class="navbar navbar-expand-lg navbar-light ">
             
-            <a class="navbar-brand" href="#"><img src="images/web_logo-2.png" alt=""></a>
+            <a class="navbar-brand" href="#"><img src="web_logo-2.png" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -72,7 +72,7 @@
 
     <div class="container">
 
-        <div class="jumbotron w-50 d-block mx-auto mt-5">
+        <div class="jumbotron d-block mx-auto mt-5">
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
