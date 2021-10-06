@@ -47,7 +47,7 @@
   
           <nav class="navbar navbar-expand-lg navbar-light ">
             
-            <a class="navbar-brand" href="#"><img src="images/web_logo-2.png" alt=""></a>
+            <a class="navbar-brand" href="#"><img src="web_logo-2.png" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -321,7 +321,7 @@
         <div class="row">
           <div class="col-md-3 mb-2 col-6">
             <div class="card">
-              <img src="images/Cosmatcs/Aichun-Beauty-Beard-Oil-a.jpg" alt="" class="img-fluid">
+              <img src="Aichun-Beauty-Beard-Oil-a.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -336,7 +336,7 @@
     
           <div class="col-md-3 mb-2 col-6">
             <div class="card">
-              <img src="images/Cosmatcs/Aichun-Beauty-Face-and-Body-Whitening-Cream.jpg" alt="" class="img-fluid">
+              <img src="Aichun-Beauty-Face-and-Body-Whitening-Cream.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -351,7 +351,7 @@
     
           <div class="col-md-3 mb-2 col-6">
             <div class="card">
-              <img src="images/Cosmatcs/00027032.jpg" alt="" class="img-fluid">
+              <img src="00027032.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
@@ -367,7 +367,7 @@
           <div class="col-md-3 col-6 mb-2">
             
             <div class="card">
-              <img src="images/Cosmatcs/argan-oil-cond.jpg" alt="" class="img-fluid">
+              <img src="argan-oil-cond.jpg" alt="" class="img-fluid">
     
               <div class="card-body">
                 <hr>
