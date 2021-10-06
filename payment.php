@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Payment</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Font Awsome -->
+    <script src="https://kit.fontawesome.com/2759fd8f76.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  
+    <!-- Css Link -->
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <!-- Header page-->
+    <div class="container-fluid bg-primary p-1 html">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4 col-6">
+            <a href="#" class="text-white"><i class="fa fa-envelope" aria-hidden="true"></i> <span class="ml-1">info@gmail.com</span></a>
+          </div>
+
+          <div class="col-md-4  m d-none d-md-block">
+            <p class="text-white"><i class="fa fa-facebook-official" aria-hidden="true"></i></p>
+          </div>
+
+          <div class="col-md-4 col-6 d-flex justify-content-end">
+            <a href="#" class="text-white"><i class="fa fa-sign-in mr-3" aria-hidden="true"></i><span class="mr-3">Sign up</span></a>
+            <a href="#" class="text-white d-none d-md-block"><i class="fas fa-user"></i><span class="ml-1 mr-3">Login</span></a>
+            <a href="#" class="text-white "><i class="far fa-shopping-cart"></i><span class="ml-1">Card</span></span></a>
+          </div>
+        </div>
+      </div>
+    </div>   
+    <!-- Header End -->
+
+    <!-- Nav Bar -->
+    <div class="container mt-1 html">
+  
+          <nav class="navbar navbar-expand-lg navbar-light ">
+            
+            <a class="navbar-brand" href="#"><img src="images/web_logo-2.png" alt=""></a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#"><i class="fas fa-home"></i><span class="ml-1">Home</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+  
+    </div>
+
+
+    <div class="container">
+
+        <div class="jumbotron w-50 d-block mx-auto mt-5">
+            <form>
+                <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Card Number</label>
+                    <input type="password" class="form-control" id="inputPassword4" placeholder="Card Number">
+                </div>
+
+                  <div class="form-group col-md-6">
+                    <label for="inputEmail4">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                  </div>
+                  
+                  <div class="form-group col-md-6">
+                    <label for="inputEmail4">Expiry</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="Expiry">
+                  </div>
+
+                  <div class="form-group col-md-6">
+                    <label for="inputEmail4">CVC</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="CVC">
+                  </div>
+                  
+                </div>
+                <div class="form-group">
+                    <label for="inputAddress">Mobile Number</label>
+                    <input type="text" class="form-control" id="inputAddress" placeholder="000-0000000">
+                  </div>
+
+                <div class="form-group">
+                  <label for="inputAddress">Address</label>
+                  <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                </div>
+                
+                <div class="form-group">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                      Check me out
+                    </label>
+                  </div>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">CONTINUE</button>
+              </form>
+        </div>
+    </div>
+
+
+    <div class="container-fluid" style="background-color: #e5e5e5;">
+
+        <div class="container pt-3">
+  
+          <div class="row">
+            <div class="col-md-3">
+              <h5>ABOUT US</h5>
+            
+              <img src="images/web_logo-2.png" alt="" class="img-fluid">
+              
+              <p class="pt-2">Office: Sammanthurai,<br>
+                Sri Lanka. <br>
+                Hotline : (+94) 0770000000 <br>
+                Email: info@str.lk</p>
+            </div>
+  
+            <div class="col-md-3 pb-2"><h5>CATEGORIES</h5>
+              Kids & Toys <br>
+              Cosmatics <br>
+              Bags <br>
+              Mobile & PC
+            </div>
+  
+            <div class="col-md-3 pb-2"><h5>INFOMATION</h5>
+              Shop <br>
+              About Us <br>
+              Contact Us <br>
+              Terms & Conditions <br>
+              Privacy Policy <br>
+            </div>
+  
+            <div class="col-md-3 pb-2"><h5>MY ACCOUNT</h5>
+              Cart <br>
+              Wishlist <br>
+              Checkout <br>
+              My Account <br>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      <div class="container-fluid pb-3" style="background-color: #dcdcdc;">
+        <div class="container pt-3" >
+          <div class="row">
+            <div class="co">
+              <p>© 2021 All Rights Reserved. Designed by A.M. Asky.</p>
+            </div>
+          </div>
+        </div>
+  
+      </div>
+      
+ 
+    <!-- Nav Bar End-->
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

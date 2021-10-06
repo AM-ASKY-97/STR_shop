@@ -35,6 +35,7 @@
           <div class="col-md-4 col-6 d-flex justify-content-end">
             <a href="#" class="text-white"><i class="fa fa-sign-in mr-1" aria-hidden="true"></i><span class="mr-3">Sign up</span></a>
             <a href="#" class="text-white"><i class="fas fa-user"></i><span class="ml-1">Login</span></a>
+            <a href="#" class="text-white "><i class="far fa-shopping-cart"></i><span class="ml-1">Card</span></span></a>
           </div>
         </div>
       </div>
@@ -61,7 +62,7 @@
                   <a class="nav-link" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"><span class="ml-1">Checkout</span></a>
+                <a class="nav-link" href="#"><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
                 </li>
               </ul>
             </div>
