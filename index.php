@@ -147,7 +147,7 @@
 
     <div class="row pb-2">
 
-      <div class="col-md-6 col-xl-3 mb-2 col-6">
+      <div class="col col-md-3 mb-2 col-6">
         <div class="card hei1">
           <img src="Recharge bike -1.jpg" alt="" class="img-fluid html">
           
@@ -162,7 +162,7 @@
         </div>
       </div>
 
-      <div class="col col-md-6 col-xl-3 mb-2 col-6">
+      <div class="col col-md-3 mb-2 col-6">
         <div class="card hei1">
           <img src="Kids Jeep - DLX6688.jpg" alt="" class="img-fluid html">
           
@@ -177,7 +177,7 @@
         </div>
       </div>
 
-      <div class="col-md-6 col-xl-3 mb-2 col-6">
+      <div class="col col-md-3 mb-2 col-6">
         <div class="card hei1">
           <img src="tolo car - 1.jpg" alt="" class="img-fluid html">
           
@@ -192,7 +192,7 @@
         </div>
       </div>
 
-      <div class="col-md-6 col-xl-3 mb-2 col-6">
+      <div class="col col col-md-3 mb-2 col-6">
         <div class="card hei1">
           <img src="Range rover - 1.jpg" alt="" class="img-fluid html">
           
