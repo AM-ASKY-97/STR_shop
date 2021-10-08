@@ -147,7 +147,7 @@
 
     <div class="row pb-2">
 
-      <div class="col col-md-6 mb-2 col-6">
+      <div class="col-md-3 mb-2 col-lg-6 col-6">
         <div class="card hei1">
           <img src="Recharge bike -1.jpg" alt="" class="img-fluid html">
           
