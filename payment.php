@@ -43,31 +43,39 @@
     <!-- Header End -->
 
     <!-- Nav Bar -->
-    <div class="container mt-1 html">
-  
+   
+    <header class="container-fluid sticky-top " >
+    
+        <div class="container html">
+    
           <nav class="navbar navbar-expand-lg navbar-light ">
             
-            <a class="navbar-brand" href="#"><img src="web_logo-2.png" alt=""></a>
-
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <a class="navbar-brand" href="#" ><img src="images/web_logo-2.png" alt="" class="img-fluid img" id="nav-cta"></a>
+  
+            
+            <button class="navbar-toggler img" id="nav-cta" type="button" data-toggle="collapse"  data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-              <ul class="navbar-nav ml-auto">
+              <ul class="navbar-nav ml-auto" >
                 <li class="nav-item active">
-                  <a class="nav-link" href="#"><i class="fas fa-home"></i><span class="ml-1">Home</span></a>
+                  <a class="nav-link" id="nav-cta" href="#"><i class="fas fa-home"></i><span class="ml-1">Home</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
+                  <a class="nav-link" id="nav-cta" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
+                  <a class="nav-link" id="nav-cta" href="#"><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
                 </li>
               </ul>
             </div>
           </nav>
-  
     </div>
+  
+    </header>
+      
+ 
+    <!-- Nav Bar End-->
 
 
     <div class="container">
@@ -180,7 +188,13 @@
     <!-- Nav Bar End-->
 
 
-
+    <script>
+      window.addEventListener('scroll', function () {
+      let header = document.querySelector('header');
+      let windowPosition = window.scrollY > 48;
+      header.classList.toggle('scrolling-active', windowPosition);
+      })
+    </script>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
