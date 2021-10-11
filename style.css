@@ -62,6 +62,11 @@ Lay Out design
     color: #fff;
 }
 
+.scrolling-active #nav-cta:hover{
+   
+    background-color: grey;
+}
+
 /*Apply styles after scroll end*/
 
 .hei1
