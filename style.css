@@ -56,20 +56,10 @@ Lay Out design
     background-color: #007bff;
 }
 
-.scrolling-active #nav-cta:hover{
-    background-color: white;
-}
+
 .scrolling-active #nav-cta{
    
     color: #fff;
-}
-
-.scrolling-active #nav-cta:hover{
-    background-color: white;
-}
-
-.scrolling-active .nav-link::after{
-    background-color: white;
 }
 
 /*Apply styles after scroll end*/
