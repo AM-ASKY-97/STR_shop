@@ -8,6 +8,72 @@ Lay Out design
     text-align: center;
 }
 
+.img::after
+{
+    background-image: url("images/KIDS/Recharge bike -1.jpg");
+}
+
+/* xs */
+.img {
+    width: 100px;
+    height: auto;
+}
+/* sm */
+@media (min-width: 768px) {
+    .img {
+        width: 150px;
+    }
+}
+/* md */
+@media (min-width: 992px) {
+    .img {
+        width: 200px;
+    }
+}
+/* lg */
+@media (min-width: 1200px) {
+    .img {
+        width: 250px;
+    }
+}
+
+/*Apply styles after scroll*/
+.scrolling-active{
+    background-color: #007bff;
+    box-shadow: 0 3px 1rem rgba(0,0,0,.1);
+}
+
+.scrolling-active .nav{
+    height: 6.6rem;
+}
+
+.scrolling-active .nav a{
+    color: white;
+}
+
+.scrolling-active #nav-ct{
+   
+    background-color: #007bff;
+}
+
+.scrolling-active #nav-cta:hover{
+    background-color: white;
+}
+.scrolling-active #nav-cta{
+   
+    color: #fff;
+}
+
+.scrolling-active #nav-cta:hover{
+    background-color: white;
+}
+
+.scrolling-active .nav-link::after{
+    background-color: white;
+}
+
+/*Apply styles after scroll end*/
+
 .hei1
 {
     height: 450px;
