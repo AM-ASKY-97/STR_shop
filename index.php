@@ -51,7 +51,7 @@
     
           <nav class="navbar navbar-expand-lg navbar-light ">
             
-            <a class="navbar-brand" href="#" ><img src="images/web_logo-2.png" alt="" class="img-fluid img" id="nav-cta"></a>
+            <a class="navbar-brand" href="#" ><img src="web_logo-2.png" alt="" class="img-fluid img" id="nav-cta"></a>
   
             
             <button class="navbar-toggler img" id="nav-cta" type="button" data-toggle="collapse"  data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
