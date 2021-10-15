@@ -85,8 +85,8 @@
           <div class="jumbotron mt-5 bg-light">
 
           <h3>Secure Payment</h3>
-
-
+          
+          <img src="visa.jpg" alt="">
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
