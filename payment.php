@@ -99,7 +99,7 @@
                     <input type="password" class="form-control" id="inputPassword4" placeholder="0000-0000-0000-0000">
                 </div>
 
-                  <div class="form-group col-lg-6">
+                  <div class="form-group col-md-6">
                     <label for="inputEmail4">Email</label>
                     <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
                   </div>
