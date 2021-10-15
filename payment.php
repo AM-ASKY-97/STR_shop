@@ -86,7 +86,7 @@
 
           <h3>Secure Payment</h3>
           
-          <img src="visa.jpg" alt="">
+          <img src="visa.jpg" alt="" width="150px" height="150px">
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
