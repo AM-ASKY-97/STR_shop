@@ -93,9 +93,9 @@
           <div class="row">
             <div class="col">
               <img src="visa.jpg" alt="" class="img-fluid" width="80px" height="60px">
-              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="60px">
+              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="50px">
               <img src="visa.jpg" alt="" class="img-fluid" width="80px" height="60px">
-              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="60px">
+              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="50px">
             </div>
           </div>
           
