@@ -92,10 +92,10 @@
 
           <div class="row">
             <div class="col">
-              <img src="visa.jpg" alt="" class="img-fluid" width="80px" height="60px">
-              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="50px">
-              <img src="visa.jpg" alt="" class="img-fluid" width="80px" height="60px">
-              <img src="master.jpg" alt="" class="img-fluid" width="80px" height="50px">
+              <img src="visa.jpg" alt="" class="img-fluid" width="60px" height="40px">
+              <img src="master.jpg" alt="" class="img-fluid" width="60px" height="20px">
+              <img src="visa.jpg" alt="" class="img-fluid" width="60px" height="40px">
+              <img src="master.jpg" alt="" class="img-fluid" width="60px" height="20px">
             </div>
           </div>
           
@@ -157,8 +157,8 @@
             <div class="col-md-3">
               <h5>ABOUT US</h5>
             
-              <img src="images/web_logo-2.png" alt="" class="img-fluid">
-              
+              <img src="web_logo-2.png" alt="" class="img-fluid img">
+               
               <p class="pt-2">Office: Sammanthurai,<br>
                 Sri Lanka. <br>
                 Hotline : (+94) 0770000000 <br>
