@@ -58,13 +58,13 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav ml-auto" >
-                <li class="nav-item active">
+                <li class="nav-item">
                   <a class="nav-link" id="nav-cta" href="index.php"><i class="fas fa-home"></i><span class="ml-1">Home</span></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="nav-cta" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item active">
                   <a class="nav-link" id="nav-cta" href="#" checked><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
                 </li>
               </ul>
