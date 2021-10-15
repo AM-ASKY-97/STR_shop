@@ -86,8 +86,13 @@
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
+                    <label for="inputPassword4">Card holder's Name</label>
+                    <input type="text" class="form-control" id="inputPassword4" placeholder="John Doe">
+                </div>
+
+                <div class="form-group col-md-6">
                     <label for="inputPassword4">Card Number</label>
-                    <input type="password" class="form-control" id="inputPassword4" placeholder="Card Number">
+                    <input type="password" class="form-control" id="inputPassword4" placeholder="0000-0000-0000-0000">
                 </div>
 
                   <div class="form-group col-md-6">
@@ -95,14 +100,14 @@
                     <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
                   </div>
                   
-                  <div class="form-group col-md-6">
-                    <label for="inputEmail4">Expiry</label>
-                    <input type="email" class="form-control" id="inputEmail4" placeholder="Expiry">
+                  <div class="form-group col">
+                    <label for="inputEmail4">Valid Through</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="MM/YY">
                   </div>
 
-                  <div class="form-group col-md-6">
-                    <label for="inputEmail4">CVC</label>
-                    <input type="email" class="form-control" id="inputEmail4" placeholder="CVC">
+                  <div class="form-group col">
+                    <label for="inputEmail4">Security Code</label>
+                    <input type="text" class="form-control" id="inputEmail4" placeholder="***">
                   </div>
                   
                 </div>
@@ -110,11 +115,6 @@
                     <label for="inputAddress">Mobile Number</label>
                     <input type="text" class="form-control" id="inputAddress" placeholder="000-0000000">
                   </div>
-
-                <div class="form-group">
-                  <label for="inputAddress">Address</label>
-                  <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-                </div>
                 
                 <div class="form-group">
                   <div class="form-check">
@@ -124,7 +124,7 @@
                     </label>
                   </div>
                 </div>
-                <button type="submit" class="btn btn-primary w-100">CONTINUE</button>
+                <button type="submit" class="btn btn-primary w-100">Review Order</button>
               </form>
         </div>
           </div>
