@@ -90,6 +90,11 @@
                   <label for="">Card Holders Name </label>
                   <input type="text">
                 </div>
+
+                <div class="col-md-6">
+                  <label for="">Card Number</label>
+                  <input type="text">
+                </div>
               </div>   
             </form>
         </div>
