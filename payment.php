@@ -94,7 +94,8 @@
             <div class="col">
               <img src="visa.jpg" alt="" class="img-fluid">
               <img src="master.jpg" alt="" class="img-fluid">
-  
+              <img src="visa.jpg" alt="" class="img-fluid">
+              <img src="master.jpg" alt="" class="img-fluid">
             </div>
           </div>
           
