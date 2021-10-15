@@ -90,6 +90,8 @@
             </div>
           </div>
 
+          <br>
+
           <div class="row">
             <div class="col">
               <h4>Credit Cards</h4>
@@ -99,6 +101,7 @@
           </div>
           
          
+          <br>
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
