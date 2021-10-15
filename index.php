@@ -45,7 +45,7 @@
     
     <!-- Nav Bar -->
    
-    <header class="container-fluid sticky-top " >
+    <header class="container-fluid sticky-top bg-primary" >
     
         <div class="container html">
     
