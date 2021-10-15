@@ -92,10 +92,8 @@
 
           <div class="row">
             <div class="col">
-              <img src="visa.jpg" alt="" class="img-fluid" width="60px" height="40px">
-              <img src="master1.jpg" alt="" class="img-fluid" width="60px" height="20px">
-              <img src="visa.jpg" alt="" class="img-fluid" width="60px" height="40px">
-              <img src="master.jpg" alt="" class="img-fluid" width="60px" height="20px">
+              <img src="web cart.png" alt="" class="img-fluid">
+              
             </div>
           </div>
           
