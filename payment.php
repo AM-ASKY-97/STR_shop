@@ -44,7 +44,7 @@
 
     <!-- Nav Bar -->
    
-    <header class="container-fluid sticky-top " >
+    <header class="container-fluid sticky-top bg-light" >
     
         <div class="container html">
     
@@ -82,7 +82,8 @@
 
         <div class="row ">
           <div class="col-lg-6 d-block mx-auto">
-          <div class="jumbotron mt-5">
+          <div class="jumbotron mt-5 bg-light">
+            <h2>Secure Payment</h2>
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
@@ -187,14 +188,6 @@
  
     <!-- Nav Bar End-->
 
-
-    <script>
-      window.addEventListener('scroll', function () {
-      let header = document.querySelector('header');
-      let windowPosition = window.scrollY > 48;
-      header.classList.toggle('scrolling-active', windowPosition);
-      })
-    </script>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
