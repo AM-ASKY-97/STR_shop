@@ -84,7 +84,17 @@
           <div class="col-lg-6 d-block mx-auto">
           <div class="jumbotron mt-5 bg-light">
 
-          <h3>Secure Payment</h3>
+          <div class="row">
+            <div class="col">
+              <h3>Secure Payment</h3>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col">
+              <img src="visa.jpg" alt="" class="img-fluid">
+            </div>
+          </div>
           
          
             <form>
