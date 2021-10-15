@@ -39,35 +39,12 @@ Lay Out design
 
 /*Apply styles after scroll*/
 .scrolling-active{
-    background-color: #007bff;
+    background-color: white;
     box-shadow: 0 3px 1rem rgba(0,0,0,.1);
 }
 
-.scrolling-active .nav{
-    height: 6.6rem;
-}
+/*Apply styles after scroll end*/ 
 
-.scrolling-active .nav a{
-    color: white;
-}
-
-.scrolling-active #nav-ct{
-   
-    background-color: #007bff;
-}
-
-
-.scrolling-active #nav-cta{
-   
-    color: #fff;
-}
-
-.scrolling-active #nav-cta:hover{
-   
-    background-color: grey;
-}
-
-/*Apply styles after scroll end*/
 
 .hei1
 {
