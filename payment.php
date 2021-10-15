@@ -83,6 +83,10 @@
         <div class="row ">
           <div class="col-lg-6 d-block mx-auto">
           <div class="jumbotron mt-5 bg-light">
+
+          <h3>Secure Payment</h3>
+
+          
             <form>
                 <div class="form-row">
                 <div class="form-group col-md-6">
@@ -95,7 +99,7 @@
                     <input type="password" class="form-control" id="inputPassword4" placeholder="0000-0000-0000-0000">
                 </div>
 
-                  <div class="form-group col-md-6">
+                  <div class="form-group col">
                     <label for="inputEmail4">Email</label>
                     <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
                   </div>
