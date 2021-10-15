@@ -92,7 +92,7 @@
 
           <div class="row">
             <div class="col">
-              <img src="new cart.png" alt="" class="img-fluid" width="250px" height="210px" >
+              <img src="new cart.png" alt="" class="img-fluid" width="200px" height="160px" >
               
             </div>
           </div>
