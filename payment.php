@@ -65,7 +65,7 @@
                   <a class="nav-link" id="nav-cta" href="#"><i class="fas fa-address-card"></i><span class="ml-1">About</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" id="nav-cta" href="#"><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
+                  <a class="nav-link" id="nav-cta" href="#" checked><i class="fab fa-amazon-pay"></i><span class="ml-1">Pay</span></span></a>
                 </li>
               </ul>
             </div>
