@@ -400,7 +400,7 @@
           <div class="col-md-3">
             <h5>ABOUT US</h5>
           
-            <img src="web_logo-2.png" alt="" class="img-fluid">
+            <img src="web_logo-2.png" alt="" class="img-fluid img">
             
             <p class="pt-2">Office: Sammanthurai,<br>
               Sri Lanka. <br>
