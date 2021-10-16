@@ -86,7 +86,7 @@
 
           <div class="row">
             <div class="col">
-              <h3>Secure Payment</h3>
+              <h3 id="font1">Secure Payment</h3>
             </div>
           </div>
 

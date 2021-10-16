@@ -77,6 +77,11 @@ Lay Out design
     }
 }
 
+#font1
+{
+    font-family: 'Montserrat', sans-serif;;
+}
+
 /* sm */
 @media (min-width: 768px) {
     .img1 {
