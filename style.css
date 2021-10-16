@@ -86,7 +86,7 @@ Lay Out design
 /* md */
 @media (min-width: 992px) {
     .img1 {
-        width: 200px;
+        width: 100px;
     }
 }
 /* lg */
