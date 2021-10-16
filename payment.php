@@ -95,7 +95,7 @@
           <div class="row">
             <div class="col">
               <h4>Credit Cards</h4>
-              <img src="new cart.png" alt="" class="img-fluid" width="200px" height="160px" >
+              <img src="new cart.png" alt="" class="img-fluid img1" width="200px" height="160px" >
               
             </div>
           </div>
