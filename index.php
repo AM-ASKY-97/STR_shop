@@ -19,7 +19,7 @@
   </head>
   <body>
     
-    <!-- Header page-->
+    <!-- Header page -->
     <div class="container-fluid bg-primary p-1 html">
       <div class="container">
         <div class="row">
